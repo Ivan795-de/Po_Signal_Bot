@@ -1,0 +1,14 @@
+# Po_Signal_Bot
+
+Простий Telegram-бот, який видає сигнали CALL/PUT для Pocket Option.
+
+## Як запустити
+
+1. Встанови Python 3.10+
+2. pip install -r requirements.txt
+3. Встав токен у bot.py
+4. python bot.py
+
+Команди:
+/start — Привітання
+/signal — Випадковий сигнал
